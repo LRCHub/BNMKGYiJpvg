@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フィーリング・グッド",
+  "base_artist": "Nina Simone",
+  "createdAt": "2026-02-15T13:15:40.995174Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feeling Good",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/pl_01_Feeling_Good_Nina_Simone.txt"
+    }
+  ]
+}
